@@ -17,7 +17,7 @@
 - 🌐 Portfolio: **https://mudassir-awan.netlify.app**
 
 <!-- Connect Section -->
-<h3 align="center" style="width: 100%; max-width: 100%;"> 
+<h3 align="end" style="width: 100%; max-width: 100%;"> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Let's Connect:
 </h3>
 <p align="center" style="width: 100%; max-width: 100%;">
