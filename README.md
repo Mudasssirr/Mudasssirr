@@ -16,7 +16,7 @@
 - 🌐 Portfolio: **https://mudassir-awan.netlify.app**
 
 <h3 align="right"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;"> Let's Connect: </h3> 
-<p align="center"> 
+<p align="right"> 
   <a href="mailto:muhammadmudassir.090@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=c9c7ad" alt="Email"> 
 </a> 
@@ -36,7 +36,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mudasssirr&show_icons=true&locale=en&layout=compact" alt="Mudassir's Top Languages" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Mudasssirr&show_icons=true&locale=en" alt="Mudassir's Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mudasssirr&show_icons=true&locale=en" alt="Mudassir's Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mudasssirr&" alt="Mudassir's Streak" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Mudasssirr&" alt="Mudassir's Streak" /></p>
 <p align="center"> <i>"Building dynamic user interfaces, one component at a time!"</i> </p>
