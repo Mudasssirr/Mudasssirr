@@ -4,7 +4,7 @@
 <!-- Introduction -->
 <h1 align="center">👋 Hi, I'm Mudassir Awan</h1> 
 <h3 align="center" style="margin: 20px 0px 30px 0px;">Experienced Frontend Developer from Pakistan</h3> 
-<img align="right" alt="Mudassir's Avatar" width="350" src="https://github.com/Mudasssirr/Mudasssirr/blob/main/3D-Avatar.png" />
+<img align="right" alt="Mudassir's Avatar" width="250" src="https://github.com/Mudasssirr/Mudasssirr/blob/main/3D-Avatar.png" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mudasssirr&label=Profile%20views&color=0e75b6&style=flat" alt="Mudasssirr" /> </p>
 
 <!-- About me & Details -->
