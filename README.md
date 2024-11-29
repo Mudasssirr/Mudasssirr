@@ -6,6 +6,11 @@
 <h3 align="center" style="margin: 20px 0px 30px 0px;">Experienced Frontend Developer from Pakistan</h3> 
 <img align="right" alt="Mudassir's Avatar" width="350" src="https://github.com/Mudasssirr/Mudasssirr/blob/main/3D-Avatar.png" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mudasssirr&label=Profile%20views&color=0e75b6&style=flat" alt="Mudasssirr" /> </p>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/muhammad-mudassir-awan-b98147284/" target="_blank">
+    <img src="https://img.shields.io/badge/-Muhammad%20Mudassir-blue?style=for-the-badge&logo=linkedin" alt="Muhammad Mudassir LinkedIn" />
+  </a> 
+</p>
 
 <!-- About me & Details -->
 - 🧠 **Learning NextJS**: I’m focusing on mastering NextJS, the key framework for seamless Frontend & Backend Integration.
