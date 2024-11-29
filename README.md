@@ -12,17 +12,15 @@
 
 - 💻 **Building Projects**:I believe in learning by doing, so I’m applying my knowledge to real-world Frontend projects.
 
-- 📈 **Growing Daily**: Constantly learning, adapting, and expanding my skill set to stay at the forefront of Frontend Development.
-
 - 📧 How to reach me **muhammadmudassir.090@gmail.com**
 
 - 🌐 Portfolio: **https://mudassir-awan.netlify.app**
 
 <!-- Connect Section -->
-<h3 align="center"> 
+<h3 align="center" style="width: 100%; max-width: 100%;"> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Let's Connect:
 </h3>
-<p align="center">
+<p align="center" style="width: 100%; max-width: 100%;">
   <a href="mailto:muhammadmudassir.090@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=c9c7ad" alt="Email">
   </a>
