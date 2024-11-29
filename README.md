@@ -30,15 +30,16 @@
 </p>
 
 <!-- Languages and Tools Section -->
-<h3 align="center" style="margin-bottom: 20px; border-bottom: 2px solid #c9c7ad; display: inline-block; padding-bottom: 5px;">🛠️ Languages and Tools:</h3>
-<div align="center" style="padding: 20px 0;">
-  <img alt="HTML" width="40px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img alt="CSS" width="40px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img alt="JavaScript" width="40px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
-  <img alt="Bootstrap" width="40px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img alt="Tailwind" width="40px" style="margin: 0 10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-  <img alt="React" width="40px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-  <img alt="Firebase" width="40px" style="margin: 0 10px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<h3 align="left" style="margin-bottom: 20px; border-bottom: 2px solid #c9c7ad; display: inline-block; padding-bottom: 5px;">🛠️ Languages and Tools:</h3>
+<div align="left" style="padding: 20px 0;">
+  <img alt="HTML" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img alt="CSS" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img alt="JavaScript" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
+  <img alt="Bootstrap" width="30px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img alt="Tailwind" width="30px" style="margin: 0 10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+  <img alt="React" width="30px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+  <img alt="Vite" width="30px" style="margin-right:10px;" src="https://vitejs.dev/logo.svg" />
+  <img alt="Firebase" width="30px" style="margin: 0 10px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 </div>
 
 <!-- Stats Section -->
