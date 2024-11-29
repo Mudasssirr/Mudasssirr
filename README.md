@@ -16,14 +16,14 @@
 - 🌐 Portfolio: **https://mudassir-awan.netlify.app**
 
 <h3 align="right"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;"> Let's Connect: </h3> 
-<p align="right"> 
+<p align="center"> 
   <a href="mailto:muhammadmudassir.090@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=c9c7ad" alt="Email"> 
 </a> 
 <a href="https://www.linkedin.com/in/muhammad-mudassir-awan-b98147284/" target="_blank"> <img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=c9c7ad" alt="LinkedIn"> </a> 
 </p>
 
-<h3 align="left" style="padding: 0px 0px 30px 0px;"> 🛠️ Languages and Tools: </h3> 
+<h3 align="left" style="margin-bottom: 30px;"> 🛠️ Languages and Tools: </h3> 
 <div align="left" style="padding-bottom: 30px">
   <img alt="HTML" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img alt="CSS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -34,9 +34,9 @@
   <img alt="firebase" width="30px" style="margin-right:10px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 </div>
 
-<p><img align="left" style="padding-top:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mudasssirr&show_icons=true&locale=en&layout=compact" alt="Mudassir's Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mudasssirr&show_icons=true&locale=en&layout=compact" alt="Mudassir's Top Languages" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mudasssirr&show_icons=true&locale=en" alt="Mudassir's Stats" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Mudasssirr&show_icons=true&locale=en" alt="Mudassir's Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mudasssirr&" alt="Mudassir's Streak" /></p>
 <p align="center"> <i>"Building dynamic user interfaces, one component at a time!"</i> </p>
