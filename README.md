@@ -51,7 +51,7 @@
 <div align="center" style="margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mudasssirr&show_icons=true&locale=en&layout=compact" alt="Mudassir's Top Languages" style="margin-bottom: 20px;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Mudasssirr&show_icons=true&locale=en" alt="Mudassir's Stats" style="margin-bottom: 20px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mudasssirr" alt="Mudassir's Streak" style="margin-bottom: 20px;"/>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mudasssirr)
 </div>
 
 <!-- Quote Section -->
