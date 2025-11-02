@@ -1,9 +1,9 @@
 <!-- Banner -->
-<img src="https://github.com/Mudasssirr/Mudasssirr/blob/main/github-header-image.png" alt="GitHub Banner" style="width: 100%; max-width: 100%;">
+<!-- <img src="https://github.com/Mudasssirr/Mudasssirr/blob/main/github-header-image.png" alt="GitHub Banner" style="width: 100%; max-width: 100%;"> -->
 
 <!-- Introduction -->
 <h1 align="center">👋 Hi, I'm Mudassir Awan</h1> 
-<h3 align="center" style="margin: 20px 0px 30px 0px;">Experienced Frontend Developer from Pakistan</h3> 
+<h3 align="center" style="margin: 20px 0px 30px 0px;">Full stack Developer from Pakistan</h3> 
 <img align="right" alt="Mudassir's Avatar" width="350" src="https://github.com/Mudasssirr/Mudasssirr/blob/main/3D-Avatar.png" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mudasssirr&label=Profile%20views&color=0e75b6&style=flat" alt="Mudasssirr" /> </p>
 <p align="left"> 
@@ -13,9 +13,9 @@
 </p>
 
 <!-- About me & Details -->
-- 🧠 **Learning NextJS**: I’m focusing on mastering NextJS, the key framework for seamless Frontend & Backend Integration.
+- 🧠 **Currently Working On**:I’m currently working on Laravel, building custom CMS platforms, setting up vendor admin roles, and managing MySQL integrations.
 
-- 💻 **Building Projects**:I believe in learning by doing, so I’m applying my knowledge to real-world Frontend projects.
+- 💻 **Improving Systems**:Working on optimizing existing Laravel applications and enhancing backend functionality.
 
 - 📧 How to reach me **muhammadmudassir.090@gmail.com**
 
@@ -39,12 +39,17 @@
 <div align="left" style="padding: 20px 0;">
   <img alt="HTML" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img alt="CSS" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img alt="PHP" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img alt="JavaScript" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
+  <img alt="Laravel" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img alt="Bootstrap" width="30px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img alt="Tailwind" width="30px" style="margin: 0 10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
   <img alt="React" width="30px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
   <img alt="Vite" width="30px" style="margin-right:10px;" src="https://vitejs.dev/logo.svg" />
   <img alt="Firebase" width="30px" style="margin: 0 10px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+  <img alt="MySQL" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="Composer" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
+  <img alt="Git" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 </div>
 
 <!-- Stats Section -->
@@ -56,5 +61,5 @@
 
 <!-- Quote Section -->
 <p align="center">
-  <i>"Building dynamic user interfaces, one component at a time!"</i>
+  <i>"Designing scalable backend systems that make data flow effortlessly."</i>
 </p>
